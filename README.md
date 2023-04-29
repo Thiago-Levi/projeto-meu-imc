@@ -3,7 +3,7 @@
 
 ### Implementei esse projeto utilizando React, Typescript e CSS. O projeto consiste em uma página calculadora de ìndice de Massa Corpórea (IMC), onde o usuário digita sua altura e peso e o sistema apresenta o resultado ao usuário. 
 
-👀 Dá uma olhada aqui: <https://thiago-levi.github.io/projeto-speech-to-text/>
+👀 Dá uma olhada aqui: <https://thiago-levi.github.io/projeto-meu-imc/>
 
 Infos:
 - Exibe a categoria do usuário
@@ -22,8 +22,8 @@ Infos extras:
 
 <h2 align="center">Versão Web</h2>
 
-<img src="./src/img/tela01.gif" alt="Gif de uma página de busca de pokemons "> 
+<img src="./public/Peek 29-04-2023 13-05.gif" alt="Gif de uma página calculadora de IMC"> 
 ___
 
 <h2 align="center">Versão Mobile</h2>
-<img src="./src/img/tela02.gif" alt="Gif de uma página de busca de pokemons">
+<img src="./public/Peek 29-04-2023 13-07.gif" alt="Gif de uma página calculadora de IMC">
